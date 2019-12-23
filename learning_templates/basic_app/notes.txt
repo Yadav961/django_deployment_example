@@ -1,0 +1,18 @@
+
+-- MAIN APP WITH URL TEMPLATES AND FILTERS--
+
+-URL LINKS-Created links under /relative_url_templates/ file.
+-DIR PATH-Dir path under /settings.py/ file.
+-INDEX PAGE-index page have template tags which are extending /base.html/ file.
+-NORMAL FILE-index page just as an normal page with extending the base.html page inside it.
+-DEMO FILE-clickbit.html is my page just as a demo page.
+-VIEWS-inside views.py created views for all the url paths.
+-URL PATH-created url patterns under urls.py file used regular expressions for providing the correct path.
+-BASE.HTML- the main page.
+- URL PATH-again created the path under the top urls.py file.
+-FILTER WITH TEMPLATE- creation and calling of filter, also used decorative function of python.
+
+--creating PASSWORD IN DJANGO-- in django_level_five folder.
+-A validator option so that user cant add simple passcode.
+-using hashing algorithm also. SHA secure hash algo.
+-
